@@ -6,7 +6,6 @@ Part of the Python Security Toolkit.
 
 from pathlib import Path
 
-
 def read_log_file(file_path):
     """Read a log file and print its contents."""
 
