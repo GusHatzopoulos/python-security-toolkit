@@ -108,39 +108,23 @@ Technologies:
 -JWT authentication
 -Docker
 
-<<<<<<< HEAD
 3- Pentest Automation Toolkit
 A penetration testing toolkit for automating reconnaissance and network analysis.
 
 Features
-=======
-3) Pentest Automation Toolkit
-
-A penetration testing toolkit for automating reconnaissance and network analysis.
-
-Features:
->>>>>>> e4cb60f (Add log_reader module)
 -Packet sniffing
 -Packet injection
 -Reconnaissance automation
 -Brute-force modules
 -Encrypted reporting
 
-<<<<<<< HEAD
 Technologies
-=======
-Technologies:
->>>>>>> e4cb60f (Add log_reader module)
 -Python
 -Scapy
 -Socket programming
 -Cryptography libraries
 
-<<<<<<< HEAD
 DFIR Investigations
-=======
-4) DFIR Investigations
->>>>>>> e4cb60f (Add log_reader module)
 
 The dfir-cases directory contains simulated incident response investigations including:
 -attack timelines
@@ -148,16 +132,9 @@ The dfir-cases directory contains simulated incident response investigations inc
 -IOC analysis
 -forensic findings
 -investigation reports
-<<<<<<< HEAD
 These cases simulate real-world DFIR workflows.
 
 Threat Intelligence Reports
-=======
-
-These cases simulate real-world DFIR workflows.
-
-5) Threat Intelligence Reports
->>>>>>> e4cb60f (Add log_reader module)
 
 The threat-intel-reports directory contains structured intelligence reports including:
 -infrastructure analysis
@@ -165,11 +142,7 @@ The threat-intel-reports directory contains structured intelligence reports incl
 -IOC correlation
 -MITRE ATT&CK mapping
 
-<<<<<<< HEAD
 Detection Engineering
-=======
-6) Detection Engineering
->>>>>>> e4cb60f (Add log_reader module)
 
 The detection-content directory contains detection rules for:
 -Sigma
@@ -178,11 +151,7 @@ The detection-content directory contains detection rules for:
 -SIEM queries
 These are designed to detect attacker behavior in enterprise environments.
 
-<<<<<<< HEAD
 Security Automation Scripts
-=======
-7) Security Automation Scripts
->>>>>>> e4cb60f (Add log_reader module)
 
 The tooling directory includes scripts used to automate tasks such as:
 -log normalization
@@ -190,7 +159,6 @@ The tooling directory includes scripts used to automate tasks such as:
 -PCAP metadata extraction
 -YARA scanning
 
-<<<<<<< HEAD
 Disclaimer
 All datasets and evidence included in this repository are synthetic or sanitized for educational purposes.
 No real-world sensitive data is included.
@@ -202,30 +170,8 @@ GitHub
 -https://github.com/GusHatzopoulos
 
 Future Work
-=======
-8) Disclaimer
-
-All datasets and evidence included in this repository are synthetic or sanitized for educational purposes.
-No real-world sensitive data is included.
-
-Author:
-
-Konstantinos Gus Hatzopoulos
-
-Cybersecurity | DFIR | Threat Intelligence | Security Automation
-
-GitHub
-https://github.com/GusHatzopoulos
-
-9) Future Work
-
->>>>>>> e4cb60f (Add log_reader module)
 Planned additions include:
 -malware analysis lab
 -automated threat intelligence pipeline
 -SOC automation tools
 -DFIR playbooks
-<<<<<<< HEAD
-=======
--threat hunting notebooks
->>>>>>> e4cb60f (Add log_reader module)
