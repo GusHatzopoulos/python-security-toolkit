@@ -1,5 +1,5 @@
-Python Security Toolkit
 
+<<<<<<< HEAD
 A professional portfolio repository focused on Cybersecurity Automation, DFIR (Digital Forensics & Incident Response), and Threat Intelligence tooling built with Python.
 
 This repository contains multiple security engineering projects, investigations, and automation tools designed to simulate real-world workflows used by:
@@ -175,3 +175,5 @@ Planned additions include:
 -automated threat intelligence pipeline
 -SOC automation tools
 -DFIR playbooks
+=======
+>>>>>>> 9e658aa4f4a5e53fa36b2e41289aa22bad343874
