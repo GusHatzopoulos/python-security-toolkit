@@ -1,0 +1,9 @@
+malicious_ips.txt
+185.203.119.22
+103.44.33.91
+
+domains.txt
+malicious-domain-example.com
+
+file_hashes.txt
+8f434346648f6b96df89dda901c5176b10a6d83961dd3c1ac88b59b2dc327aa4
